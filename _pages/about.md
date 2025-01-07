@@ -9,8 +9,6 @@ redirect_from:
 
 I'm a third year Ph.D student from [College of CSEE](https://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/). My research interest includes spatio-temporal data management, compress sensing, network monitoring, and time series intelligence.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](mailto:jihaojie@hnu.edu.cn) / [Github](https://github.com/haojieji)
 
 Educational experience
