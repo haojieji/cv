@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 Educational experience
 ======
-2020 Master in computer science, CSEE, Hunan University
+2020 Master in computer science, CSEE, Hunan University\\
 2022 Ph.D in Computer Science and Technology, CSEE, Hunan University
 
 Publications
