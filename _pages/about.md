@@ -26,12 +26,12 @@ Publications
    
 Horrors
 ======
-1. 2023-2024 Outstanding Graduate Student, Hunan University ([Certificates]())
-2. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (Rankings: **4/168**, [Certificates]())
+1. 2023-2024 Outstanding Graduate Student, Hunan University ([Certificates](/images/profile.jpg))
+2. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (Rankings: **4/168**, [Certificates](/images/profile.jpg))
 
 Huawei Projects
 ------
-1. 2021-2022 High Precision Network Measurement Technology Research Project, Huawei Technologies Co. (ID:TBN2020085109S0W2, [Certificates]())
-2. 2022-2023 Research on Low Overhead High Precision Network Measurement Technology, Huawei Technologies Co. (ID:YBN2020085109-2023-02, [Certificates]())
+1. 2021-2022 High Precision Network Measurement Technology Research Project, Huawei Technologies Co. (ID:TBN2020085109S0W2, [Certificates](/images/profile.jpg))
+2. 2022-2023 Research on Low Overhead High Precision Network Measurement Technology, Huawei Technologies Co. (ID:YBN2020085109-2023-02, [Certificates](/images/profile.jpg))
 
 
