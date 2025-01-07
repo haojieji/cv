@@ -20,14 +20,14 @@ Educational experience
 
 Publications
 ======
-1. **Haojie Ji**, Kun Xie, Jigang Wen, Qingyi Zhang, Gaogang Xie, and Wei Liang. 2024. FineMon: An Innovative Adaptive Network Telemetry Scheme for Fine-Grained, Multi-Metric Data Monitoring with Dynamic Frequency Adjustment and Enhanced Data Recovery. **SIGMOD** (February 2024), 26 pages. https://doi.org/10.1145/3639267 [video](https://dl.acm.org/doi/10.1145/3639267) / [System-Demo](https://github.com/haojieji/FineMon)
+1. **Haojie Ji**, Kun Xie, Jigang Wen, Qingyi Zhang, Gaogang Xie, and Wei Liang. 2024. FineMon: An Innovative Adaptive Network Telemetry Scheme for Fine-Grained, Multi-Metric Data Monitoring with Dynamic Frequency Adjustment and Enhanced Data Recovery. **SIGMOD** (February 2024), 26 pages. https://doi.org/10.1145/3639267 [video](https://dl.acm.org/doi/10.1145/3639267) / [Video](https://github.com/haojieji/FineMon)
 2. Robust Adaptive Data Monitoring with Low-Rank Frequency Adaptor and Causal Structure. (ready to submit to SIGMOD 2026 or VLDB 2025)
 
    
 Horrors
 ======
 1. 2023-2024 Outstanding Graduate Student, Hunan University ([Certificates](https://csee.hnu.edu.cn/info/1062/13358.htm))
-2. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (Rankings: **4/168**, Certificates: ![Certificates](https://github.com/haojieji/cv/blob/master/images/prizes.png), Demo-Vedio: ![demo](https://github.com/haojieji/cv/blob/master/images/demo.mp4))
+2. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (Rankings: **4/168**, Certificates: ![Certificates](https://github.com/haojieji/cv/blob/master/images/prizes.png), [System-Demo-Vedio](https://github.com/haojieji/cv/blob/master/images/demo.mp4))
 
 Huawei Projects
 ------
