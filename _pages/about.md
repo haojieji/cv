@@ -19,7 +19,7 @@ Educational experience
 Publications
 ======
 1. **Haojie Ji**, Kun Xie, Jigang Wen, Qingyi Zhang, Gaogang Xie, and Wei Liang. 2024. *FineMon: An Innovative Adaptive Network Telemetry Scheme for Fine-Grained, Multi-Metric Data Monitoring with Dynamic Frequency Adjustment and Enhanced Data Recovery*. **SIGMOD** (February 2024), 26 pages. [PaperVideo](https://dl.acm.org/doi/10.1145/3639267) / [Poster & SystemDemo](https://github.com/haojieji/FineMon)
-2. **Haojie Ji** *Robust Adaptive Data Monitoring System with Low-Rank Frequency Adaptor and Causal Structure*. (ready to submit to SIGMOD 2026 or VLDB 2025)
+2. **Haojie Ji** *Traceable and Robust Data Monitoring System with Low-Rank Frequency Adaptor and Causal Structure*. (ready to submit to SIGMOD 2026 or VLDB 2025)
 
    
 Horrors
