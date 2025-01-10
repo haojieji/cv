@@ -25,12 +25,12 @@ Publications
 Horrors
 ======
 1. 2023-2024 Outstanding Graduate Student, Hunan University ([Certificates](https://csee.hnu.edu.cn/info/1062/13358.htm))
-2. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (Rankings: **4/168**, Certificates: ![Certificates](https://github.com/haojieji/cv/blob/master/images/prizes.png), [System-Demo-Vedio](https://github.com/haojieji/cv/blob/master/images/demo.mp4))
+2. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (**Rankings**: **4/168**, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: ![Certificates](../images/prizes.png))
 
 
 Huawei Projects
 ------
-1. 2021-2022 High Precision Network Measurement Technology Research Project, Huawei Technologies Co. (ID:TBN2020085109S0W2, Certificates: ![Certificates](../images/projects.png))
-2. 2022-2023 Research on Low Overhead High Precision Network Measurement Technology, Huawei Technologies Co. (ID:YBN2020085109-2023-02)
+1. 2021-2022 High Precision Network Measurement Technology Research Project, Huawei Technologies Co. (**Proj-ID**:TBN2020085109S0W2, **Certificates** (The proj-leader is my mentor, i'm the main executor): ![Certificates](../images/projects.png))
+2. 2022-2023 Research on Low Overhead High Precision Network Measurement Technology, Huawei Technologies Co. (**Proj-ID**:YBN2020085109-2023-02)
 
 
