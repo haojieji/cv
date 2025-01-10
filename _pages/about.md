@@ -13,7 +13,7 @@ I'm a third year Ph.D student from [College of CSEE](https://csee.hnu.edu.cn/), 
 
 Educational experience
 ======
-2020 Master in computer science, CSEE, Hunan University\\
+2020 Master in computer science, CSEE, Hunan University \\
 2022 Ph.D in Computer Science and Technology, CSEE, Hunan University
 
 Publications
@@ -25,7 +25,7 @@ Publications
 Horrors
 ======
 1. 2023-2024 Outstanding Graduate Student, Hunan University ([Certificates](https://csee.hnu.edu.cn/info/1062/13358.htm))
-2. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (**Rankings**: **4/168**, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: ![Certificates](../images/prizes.png))
+2. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (**Rankings**: *4/168*, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: ![Certificates](../images/prizes.png))
 
 
 Huawei Projects
