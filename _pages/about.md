@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /cv
 title: "About me"
 author_profile: true
 redirect_from: 
