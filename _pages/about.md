@@ -13,13 +13,13 @@ I'm a third year Ph.D student from [College of CSEE](https://csee.hnu.edu.cn/), 
 
 Educational experience
 ======
-2020 Master in computer science, CSEE, Hunan University \\
+2020 Master in computer science, CSEE, Hunan University \\\
 2022 Ph.D in Computer Science and Technology, CSEE, Hunan University
 
 Publications
 ======
 1. **Haojie Ji**, Kun Xie, Jigang Wen, Qingyi Zhang, Gaogang Xie, and Wei Liang. 2024. *FineMon: An Innovative Adaptive Network Telemetry Scheme for Fine-Grained, Multi-Metric Data Monitoring with Dynamic Frequency Adjustment and Enhanced Data Recovery*. **SIGMOD** (February 2024), 26 pages. [PaperVideo](https://dl.acm.org/doi/10.1145/3639267) / [Poster & SystemDemo](https://github.com/haojieji/FineMon)
-2. *Robust Adaptive Data Monitoring System with Low-Rank Frequency Adaptor and Causal Structure*. (ready to submit to SIGMOD 2026 or VLDB 2025)
+2. **Haojie Ji** *Robust Adaptive Data Monitoring System with Low-Rank Frequency Adaptor and Causal Structure*. (ready to submit to SIGMOD 2026 or VLDB 2025)
 
    
 Horrors
