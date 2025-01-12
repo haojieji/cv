@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year Ph.D student from [College of CSEE](https://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/). My research interest includes **AI infra Observability**, **Spatio-Temporal Data Management**, **Compress Sensing**, **Network Monitoring**, and **Time Series Intelligence**.
+I'm a third year Ph.D student from [College of CSEE](https://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/). My research interest includes ***AI-infra Observability***, ***Spatio-Temporal Data Management***, ***Compress Sensing***, ***Network Monitoring***, and ***Time Series Intelligence***.
 
 [Email](mailto:jihaojie@hnu.edu.cn) / [Github](https://github.com/haojieji)
 
