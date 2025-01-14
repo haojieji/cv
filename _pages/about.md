@@ -24,9 +24,10 @@ Publications
    
 Horrors
 ======
-1. 2024 ACM Student Scholarship
-2. 2023-2024 Outstanding Graduate Student, Hunan University ([Certificates](https://csee.hnu.edu.cn/info/1062/13358.htm))
-3. 2024 First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition (**Rankings**: *4/168*, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: ![Certificates](../images/prizes.png))
+1. 2024 ACM Student Scholarship.
+2. 2024 Hunan University Grant for Distinguished International Academic Conferences.
+3. 2023-2024 The Outstanding Graduate Student, Hunan University. ([Certificates](https://csee.hnu.edu.cn/info/1062/13358.htm))
+4. 2024 The First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition. (**Rankings**: *4/168*, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: ![Certificates](../images/prizes.png))
 
 
 Huawei Projects
