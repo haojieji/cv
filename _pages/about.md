@@ -18,14 +18,14 @@ Publications
 
 Education
 ======
-2022 Ph.D. in Computer Science and Technology, CSEE, Hunan University (GPA: 3.73/4) \\\
-2020~2022 Master in Computer Science, CSEE, Hunan University (GPA: 3.27/4) \\\
-2016~2020 B.E. in Software Engineering, Shanxi Agricultural University (GPA: 4.15/5, Rank: 3/425)
+2022. Ph.D. in Computer Science and Technology, CSEE, Hunan University (GPA: 3.73/4)
+2020~2022. Master in Computer Science, CSEE, Hunan University (GPA: 3.27/4)
+2016~2020. B.E. in Software Engineering, Shanxi Agricultural University (GPA: 4.15/5, Rank: 3/425)
 
 Awards
 ======
 1. Outstanding Graduate Student 2024, Hunan University. ([Certificates](https://csee.hnu.edu.cn/info/1062/13358.htm))
-2. First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition 2024, [FNII]([https://www.gfnds.com/]) & [PML]([https://www.pmlabs.com.cn/]). (**Rank**: *4/168*, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: [Certificates](../images/prizes.png))
+2. First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition 2024, [FNII](https://www.gfnds.com/) & [PML](https://www.pmlabs.com.cn/). (**Rank**: *4/168*, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: [Certificates](../images/prizes.png))
 3. ACM Student Scholarship 2024, ACM.
 4. Grant for Distinguished International Academic Conferences 2024, Hunan University.
 5. Presidential Scholarship 2020, Shanxi Agricultural University
