@@ -18,9 +18,9 @@ Publications
 
 Education
 ======
-2022. Ph.D. in Computer Science and Technology, CSEE, Hunan University (GPA: 3.73/4)
-2020~2022. Master in Computer Science, CSEE, Hunan University (GPA: 3.27/4)
-2016~2020. B.E. in Software Engineering, Shanxi Agricultural University (GPA: 4.15/5, Rank: 3/425)
+*2022. Ph.D. in Computer Science and Technology, CSEE, Hunan University (GPA: 3.73/4)
+*2020~2022. Master in Computer Science, CSEE, Hunan University (GPA: 3.27/4)
+*2016~2020. B.E. in Software Engineering, Shanxi Agricultural University (GPA: 4.15/5, Rank: 3/425)
 
 Awards
 ======
