@@ -33,7 +33,7 @@ Awards
 
 Huawei Projects
 ------
-1. 2021-2022 High Precision Network Measurement Technology Research Project, Huawei Technologies Co. (**Proj-ID**:TBN2020085109S0W2, **Certificates** (The proj-leader is my advisor Prof.KunXie, i'm the main executor): ![Certificates](../images/projects.png))
+1. 2021-2022 High Precision Network Measurement Technology Research Project, Huawei Technologies Co. (**Proj-ID**:TBN2020085109S0W2, **Certificates** (The proj-leader is my advisor Prof.KunXie, i'm the main executor): ![Certificates](../images/Project_Identify.png))
 2. 2022-2023 Research on Low Overhead High Precision Network Measurement Technology, Huawei Technologies Co. (**Proj-ID**:YBN2020085109-2023-02)
 
 
