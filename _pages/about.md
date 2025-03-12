@@ -9,6 +9,11 @@ redirect_from:
 
 I'm a third year Ph.D student from [College of CSEE](https://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/). My research interest includes ***AI-infra Observability***, ***Spatio-Temporal Data Management***, ***Compress Sensing***, ***Network Monitoring***, and ***Time Series Intelligence***.
 
+I am deeply motivated to drive AI infrastructure performance improvements, extending beyond observability.
+
+Ongoing: I am applying to the 2025 Tencent Rhino-Bird Infrastructure Technology Research Program with a research proposal titled:
+"Evaluating Business Operational Quality via QoS Metrics in Operating Systems". Seeking an experienced project leader to collaborate on this initiative. Interested candidates are welcome to connect!
+
 [Email](mailto:jihaojie@hnu.edu.cn) / [Github](https://github.com/haojieji)
 
 Publications
