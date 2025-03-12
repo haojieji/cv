@@ -3,9 +3,9 @@
 
 <nav class="nav__list">
   {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
-  <!-- <ul>
+  <ul>
     {% for nav in navigation %}
-      <li>
+      <!-- <li> -->
         {% if nav.url %}
           {% comment %}internal/external URL check{% endcomment %}
           {% if nav.url contains "://" %}
@@ -14,13 +14,13 @@
             {% assign domain = base_path %}
           {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          <!-- <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a> -->
         {% else %}
-          <span class="nav__sub-title">{{ nav.title }}</span>
+          <!-- <span class="nav__sub-title">{{ nav.title }}</span>  -->
         {% endif %}
 
         {% if nav.children != null %}
-        <ul>
+        <!-- <ul> -->
           {% for child in nav.children %}
             {% comment %}internal/external URL check{% endcomment %}
             {% if child.url contains "://" %}
@@ -36,11 +36,11 @@
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
+            <!-- <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>  -->
           {% endfor %}
-        </ul>
+        <!-- </ul> -->
         {% endif %}
-      </li>
+      <!-- </li>  -->
     {% endfor %}
-  </ul>-->
+  </ul>
 </nav>
