@@ -30,7 +30,7 @@ Education
 Awards
 ======
 1. Outstanding Graduate Student 2024, Hunan University. ([Certificates](https://csee.hnu.edu.cn/info/1062/13358.htm))
-2. First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition 2024, [FNII](https://www.gfnds.com/) & [PML](https://www.pmlabs.com.cn/). (**Rank**: *4/168*, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: [Certificates](../images/prizes.png))
+2. First Prize in the Final of the 8th Future Network Science and Technology Innovation Competition 2024, [FNII](https://www.gfnds.com/) & [PML](https://www.pmlabs.com.cn/). (**Rank**: *4/168*, **Demo**: [SystemDemo-Video](../images/demo.mp4), **Certificates**: [Certificates](https://www.gfnds.com/competition_list/125.html))
 3. ACM Student Scholarship 2024, ACM.
 4. Grant for Distinguished International Academic Conferences 2024, Hunan University.
 5. Presidential Scholarship 2020, Shanxi Agricultural University
