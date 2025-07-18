@@ -14,8 +14,6 @@ I am deeply motivated to drive AI infrastructure performance improvements, exten
 *Ongoing*: 
 1. Lightweight Multimodel QoS Monitoring for LLM inference and serving. (on-researching)
 2. A Fine-grained Prometheus Observation System with Adaptive frequencies. (will open source on github at 2025.08~09)
-#I am applying to the 2025 Tencent Rhino-Bird Infrastructure Technology Research Program with a research proposal titled:
-"Evaluating Business Operational Quality via QoS Metrics in Operating Systems".
 
 [Email](mailto:jihaojie@hnu.edu.cn) / [Github](https://github.com/haojieji)
 
